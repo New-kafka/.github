@@ -1,1 +1,2 @@
 # .github
+This project, designed and developed for the System Analysis and Design course at Sharif University, draws its inspiration from the robust functionalities of the Kafka messaging queue system. Demonstrating high reliability, it has undergone rigorous fault tolerance and load testing, ensuring its robustness under various conditions. Furthermore, it boasts compatibility with two distinct clients, meticulously crafted in Go and Python, showcasing its versatile integration capabilities.
